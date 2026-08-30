@@ -1,8 +1,6 @@
-import React from 'react'
-
 const page = () => {
   return (
-    <div>hello world</div>
+    <div className="text-center font-bold bg-red-600 text-white text-4xl">Route Handlers</div>
   )
 }
 
